@@ -39,7 +39,7 @@ with st.container():
             html_content = f"""
             <html>
                 <body>
-                    <h1>Olá, {to_name}, tudo bem?</h1>
+                    <p>Olá, {to_name}, tudo bem?</p>
                     <p>Sou a Mary Gomes, Gerente de Novos Negócios da AK Network e consegui o seu contato no Linkedin.</p>
                     <p>Eu imagino que vocês se preocupem muito com ataques e fraudes que possam chegar via e-mail, correto? </p>
                     <p>Temos uma solução que possui 99,95% de taxa de detecção de todos os tipos de ameaça de spam, phishing, BEC, ATO, malware e zero-days, e gostaria de fazer uma demonstração, de no máximo 40 minutos. Você possui essa disponibilidade?</p>
